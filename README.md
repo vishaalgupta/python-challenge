@@ -2,8 +2,8 @@
 
 # PyBank
 # I calculated the total months in the dataset and then calculated the total Profit/Loss for each month
-# I calculated the difference in Profit/Loss for each month and the previous month and stored those in a list
-# I took the average of each of those differences and determined the minimum/maximum difference
+# I calculated the difference in Profit/Loss for each month compared to the previous month and stored each difference in a list
+# I took the average of each of those differences and then determined the minimum/maximum difference
 #
 # PyPoll
 # I calculated the total number of votes that were cast
